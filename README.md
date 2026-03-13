@@ -10,4 +10,4 @@ Pipeline stages:
 
 1. Lint code using flake8
 2. Run unit tests using nose
-3. Execute Tekton tasks in OpenShift
+3. Execute Tekton tasks
